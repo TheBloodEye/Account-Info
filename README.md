@@ -1,4 +1,4 @@
-![icon](https://raw.githubusercontent.com/TheBloodEye/Assets/main/account%20info.png)
+![icon](https://raw.githubusercontent.com/TheBloodEye/Assets/main/account%20info.png){: center}
 
 # Account-Info
 
