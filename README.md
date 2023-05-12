@@ -1,3 +1,5 @@
+![icon](https://raw.githubusercontent.com/TheBloodEye/Assets/main/account%20info.png)
+
 # Account-Info
 
 A Python script to retrieve and display account information using a Discord token.
