@@ -9,6 +9,8 @@ A Python script to retrieve and display account information using a Discord toke
 This script allows you to provide a Discord token and retrieve various account details associated with the token. 
 It makes use of the Discord API to fetch user data and displays information such as username, badges, language, creation date, avatar URL, and security-related details like email, phone number, and two-factor authentication status.
 
+![image](https://raw.githubusercontent.com/TheBloodEye/Assets/main/tempsnip.png)
+
 ## Requirements
 
 - Python 3.x
